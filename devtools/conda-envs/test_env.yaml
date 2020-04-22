@@ -1,8 +1,8 @@
-name: test
+name: mars2
 channels:
 dependencies:
     # Base depends
-  - python =3.8
+  - python =3.7
   - pip
 
     # Testing
